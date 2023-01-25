@@ -1,0 +1,78 @@
+*{
+    font-family: "Times New Roman", Times, serif;
+}
+.container1{
+    background-image: url(img/home-bg-img.png);
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.navbar{
+    position: fixed;
+    border-bottom: 1px solid white;
+}
+.img{
+    display: inline;
+}
+.app{
+    color:white;
+    background-color: rgb(222, 24, 133);
+}
+ 
+.easy{
+    font-size: 40px;
+    color:pink;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.container2{
+    background-image: url(img/home2.avif);
+    background-size: cover;
+    margin: 80px;
+}
+.container3{
+    background-image: url(img/subscribe-bg.png);
+    background-size: cover;
+    height: 250px;
+}
+.row1{
+    align-items: flex-end;
+}
+.text{
+    color: rgb(213, 206, 220);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.text1{
+    color: rgb(213, 206, 220);
+    font-family: "Baskervville",serif;
+}
+.People{
+    color: red;
+    font-size: 42px;
+    background-color:pink;
+    font-family: "Baskervville",serif;
+}
+
+.bg-img{
+    background-image: url(img/white-wallpaper-11.jpg);
+    background-size: cover;
+}
+.footer1{
+    background-image: url(img/pexels-pixabay-220072\ \(1\).jpg);
+    background-size: cover;
+    /* width: 00px; */
+}
+.Quick a{
+  text-decoration: none;
+  color: white;
+  list-style: none;
+}
+
+.follow a{
+    text-decoration: none;
+    color: white;
+  }
+  .contact{
+    color: antiquewhite;
+  }
+
